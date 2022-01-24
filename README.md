@@ -10,10 +10,10 @@ In this data science and machine learning project, I have classified sports pers
 5  Lionel Messi
 
 
-Technologies used in this project,
-	1. Python 3.8
-	2. Numpy and OpenCV for data cleaning
-	3. Matplotlib & Seaborn for data visualization
-	4. Jupyter notebook, visual studio code and spyder as IDE
-	5. Python flask for http server
-	6. HTML/CSS/Javascript for UI
+Technologies used in this project
+1. Python 3.8
+2. Numpy and OpenCV for data cleaning
+3. Matplotlib & Seaborn for data visualization
+4. Jupyter notebook, visual studio code and spyder as IDE
+5. Python flask for http server
+6. HTML/CSS/Javascript for UI
