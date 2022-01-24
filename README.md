@@ -11,10 +11,9 @@ In this data science and machine learning project, I have classified sports pers
 
 
 Technologies used in this project,
-	Python 3.8
-	Numpy and OpenCV for data cleaning
-	Matplotlib & Seaborn for data visualization
-	Deep Learning model
-	Jupyter notebook, visual studio code and spyder as IDE
-	Python flask for http server
-	HTML/CSS/Javascript for UI
+	1. Python 3.8
+	2. Numpy and OpenCV for data cleaning
+	3. Matplotlib & Seaborn for data visualization
+	4. Jupyter notebook, visual studio code and spyder as IDE
+	5. Python flask for http server
+	6. HTML/CSS/Javascript for UI
